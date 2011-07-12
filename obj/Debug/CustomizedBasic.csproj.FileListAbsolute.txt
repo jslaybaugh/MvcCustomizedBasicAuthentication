@@ -1,0 +1,12 @@
+C:\Side Work\Jorin Slaybaugh\CustomizedBasic\obj\Debug\ResolveAssemblyReference.cache
+C:\Side Work\Jorin Slaybaugh\CustomizedBasic\bin\CustomizedBasic.dll
+C:\Side Work\Jorin Slaybaugh\CustomizedBasic\bin\CustomizedBasic.pdb
+C:\Side Work\Jorin Slaybaugh\CustomizedBasic\bin\Ninject.dll
+C:\Side Work\Jorin Slaybaugh\CustomizedBasic\bin\Ninject.Web.Mvc.dll
+C:\Side Work\Jorin Slaybaugh\CustomizedBasic\bin\WebActivator.dll
+C:\Side Work\Jorin Slaybaugh\CustomizedBasic\bin\Ninject.pdb
+C:\Side Work\Jorin Slaybaugh\CustomizedBasic\bin\Ninject.xml
+C:\Side Work\Jorin Slaybaugh\CustomizedBasic\bin\Ninject.Web.Mvc.pdb
+C:\Side Work\Jorin Slaybaugh\CustomizedBasic\bin\Ninject.Web.Mvc.xml
+C:\Side Work\Jorin Slaybaugh\CustomizedBasic\obj\Debug\CustomizedBasic.dll
+C:\Side Work\Jorin Slaybaugh\CustomizedBasic\obj\Debug\CustomizedBasic.pdb
