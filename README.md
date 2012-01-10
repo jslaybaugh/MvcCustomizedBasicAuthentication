@@ -1,5 +1,5 @@
 About
-=====
+======
 
 For more information read the article on my blog: http://cacheandquery.com/blog/2011/03/customizing-asp-net-mvc-basic-authentication/
 
